@@ -2,6 +2,8 @@
 
 ## This is a fixed version of the code (previous version had an error with uploading node_modules due to missing .gitignore file)
 
+## Visualization demo: https://www.youtube.com/watch?v=KfsYKRAF-wY
+
 ## Contributers:
 **Longxiang Chen - Frontend** https://github.com/longxiangchen <br>
 **Longji Chen - Backend** https://github.com/longjichen1 <br>
