@@ -1,3 +1,12 @@
+# Original code at: https://github.com/Xsort-Programming/one-health-approach
+
+## This is a fixed version of the code (previous version had an error with uploading node_modules due to missing .gitignore file)
+
+## Contributers:
+**Longxiang Chen - Frontend** https://github.com/longxiangchen
+**Longji Chen - Backend** https://github.com/longjichen1 
+** Elias Mrug - Backend** https://github.com/elim202020
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
